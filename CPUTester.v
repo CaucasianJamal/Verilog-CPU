@@ -1,4 +1,4 @@
-module LabN3;
+module CPUTester;
 
 reg [31:0] entryPoint;
 reg clk, INT;
